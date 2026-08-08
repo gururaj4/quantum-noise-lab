@@ -1,6 +1,6 @@
-# SPECTRE V1 — Quantum Benchmarking & Noise Observatory
+# Quantum Noise Lab V1 — Quantum Benchmarking & Noise Observatory
 
-SPECTRE is a modular framework for benchmarking quantum circuits under simulated noise.
+The Quantum Noise Lab is a modular framework for benchmarking quantum circuits under simulated noise.
 
 The goal of V1 is to establish a clean experiment pipeline that can execute a quantum circuit ideally, apply a configurable noise model, run the noisy circuit, and compare the resulting measurement distributions.
 
@@ -8,7 +8,7 @@ The goal of V1 is to establish a clean experiment pipeline that can execute a qu
 
 ## V1 Capabilities
 
-SPECTRE V1 currently supports:
+Quantum Noise Lab V1 currently supports:
 
 * Quantum circuit experiments through a standardized `Experiment` object.
 * Ideal circuit execution using Qiskit Aer.
@@ -217,7 +217,7 @@ The resulting `ExperimentResult` can then be summarized and visualized.
 
 # V1 Status
 
-SPECTRE V1 establishes the **core benchmarking pipeline**:
+Quantum Noise Lab V1 establishes the **core benchmarking pipeline**:
 
 ```text
 Quantum Circuit
