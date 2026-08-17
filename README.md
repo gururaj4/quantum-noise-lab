@@ -1,5 +1,3 @@
-Absolutely — here's the **QNL V2 README.md** in copy-paste form, covering the hardware-derived noise model, repeated analysis, sweeps, backend comparisons, and the Grover findings.
-
 # Quantum Noise Lab V2
 
 Quantum Noise Lab (QNL) is a modular framework for benchmarking quantum algorithms under simulated hardware-derived noise.
